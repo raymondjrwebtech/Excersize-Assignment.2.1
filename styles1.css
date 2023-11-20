@@ -22,8 +22,8 @@ body {
     border: 1px solid #ccc;
 }
 
-/* Font styles for the example class */
-.example {
+/* Font styles for the other class */
+.column{
     font-family: "Tiffin", sans-serif;
     font-size: 18px;
     font-weight: 300;
